@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.name        = "active-mapper"
   s.version     = ActiveMapper::VERSION
   s.authors     = ["Aleksandar Vucic"]
-  s.email       = ["aleksandar.vucic@hrsrbija.rs"]
-  s.homepage    = "http://hrsrbija.rs"
+  s.email       = ["contact@vucicaleksandar.com"]
+  s.homepage    = "https://github.com/avstudio"
   s.summary     = "ORM."
   s.description = "ORM."
 
